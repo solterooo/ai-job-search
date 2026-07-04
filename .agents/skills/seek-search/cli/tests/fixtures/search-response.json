@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": "92986687",
+      "title": "Waiters / Bar Staff | New Perth Openings in Sales",
+      "companyName": "Private Advertiser",
+      "advertiser": { "id": "", "description": "Private Advertiser" },
+      "locations": [{ "label": "Perth WA", "countryCode": "AU" }],
+      "listingDate": "2026-06-28T00:41:47Z",
+      "listingDateDisplay": "6d ago",
+      "salaryLabel": "$33 – $35/hr + bonuses",
+      "workTypes": ["Casual/Vacation"],
+      "teaser": "Sick of the goundhog day that is hospitality? Business minded? Switch to sales and develop fast."
+    },
+    {
+      "id": "93074617",
+      "title": "Full-Time Private Housekeeper / Butler",
+      "companyName": "Private Advertiser",
+      "advertiser": { "id": "", "description": "Private Advertiser" },
+      "locations": [{ "label": "Como, Perth WA", "countryCode": "AU" }],
+      "listingDate": "2026-07-02T03:19:22Z",
+      "listingDateDisplay": "2d ago",
+      "salaryLabel": "",
+      "workTypes": ["Full time"],
+      "teaser": "Manage a private household through exceptional cleaning, cooking, laundry, organisation, and daily household support services."
+    }
+  ],
+  "totalCount": 1094
+}

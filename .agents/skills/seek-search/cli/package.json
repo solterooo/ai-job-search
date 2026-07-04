@@ -1,0 +1,20 @@
+{
+  "name": "seek-cli",
+  "version": "1.0.0",
+  "description": "CLI for searching jobs on Seek.com.au's public job search API, for any Australian location. Personal use only.",
+  "type": "module",
+  "main": "src/cli.ts",
+  "bin": {
+    "seek-search": "src/cli.ts"
+  },
+  "scripts": {
+    "start": "bun run src/cli.ts",
+    "test": "bun test",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "@types/bun": "latest"
+  }
+}
